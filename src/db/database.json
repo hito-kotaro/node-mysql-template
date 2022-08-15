@@ -1,0 +1,13 @@
+{
+  "dev": {
+    "driver": "mysql",
+    "user": "root",
+    "password": "password",
+    "database": "node_sample_db"
+  },
+  "init": {
+    "driver": "mysql",
+    "user": "root",
+    "password": "password"
+  }
+}
